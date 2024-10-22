@@ -8,16 +8,16 @@
 /* Body styling */
 body {
     font-family: Arial, sans-serif;
-    background-color: #f4f4f4;
-    color: #333;
+    background-color: #cb2aa3;
+    color: #444;
     padding: 30px;
 }
 
 /* Header styling */
 header, footer {
-    background: #333;
+    background: #000000;
     color: #fff;
-    text-align: center;
+    text-align: left;
     padding: 10px 0;
 }
 
